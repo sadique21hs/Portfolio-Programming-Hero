@@ -1,0 +1,22 @@
+.header-container {
+  height: 100vh;
+  background-color: var(--background-color);
+  background-image: url(Image/Rectangle\ 5.png);
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+#right-menu {
+  width: 175px;
+  text-align: right;
+}
+
+.nav {
+  padding: 20px;
+  display: flex;
+  justify-content: space-between;
+  gap: 20px;
+  color: var(--font-color);
+
+  font-size: 36px;
+}

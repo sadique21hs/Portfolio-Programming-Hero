@@ -1,0 +1,14 @@
+@import url("https://fonts.googleapis.com/css2?family=Antonio:wght@100..700&display=swap");
+
+:root {
+  --background-color: #0c0418;
+  --font-color: #feffff;
+  --primary-color: #ba0bf9;
+  --secoundery-color: #5e4af1;
+}
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Antonio";
+  font-weight: 400;
+}
