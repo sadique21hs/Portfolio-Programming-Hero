@@ -24,10 +24,22 @@
   padding: 0px 40px;
   background-color: var(--background-color);
 }
-.banner-title {
-  font-size: 152px;
-  text-transform: uppercase;
-}
+
 .banner-title h1 {
-  font-weight: 400px;
+  font-size: 92px;
+  text-transform: uppercase;
+  font-weight: bolder;
+  letter-spacing: 7.6px;
+  margin: 20px 0px;
+}
+.banner-dis {
+  font-size: 20px;
+  text-transform: uppercase;
+  font-weight: bolder;
+  margin: 20px 0px;
+}
+@media only screen and (min-width: 200px) and (max-width: 600px) {
+  .nav {
+    font-size: 16px;
+  }
 }
