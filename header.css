@@ -63,3 +63,15 @@
   text-transform: uppercase;
   font-weight: bolder;
 }
+.flex-text h1 {
+  font-size: 152px;
+}
+.flex-text p {
+  font-size: 40px;
+  text-transform: uppercase;
+  font-weight: bolder;
+}
+.flex {
+  display: flex;
+  gap: 150px;
+}
